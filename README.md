@@ -1,1 +1,1 @@
-Данный репозиторий создан для размещения выполненных тестовых заданий, а также для различных самостоятельных мини-проектов.
+Repository created to host completed test tasks, as well as for various independent mini-projects.
